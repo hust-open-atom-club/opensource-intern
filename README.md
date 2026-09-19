@@ -17,6 +17,8 @@
 | [基于 LLM 与代码分析的 OpenHarmony 智能漏洞检测工具](./openatom_club_LLM_vulnerability_detection.md) | Python、C/C++ | 88 小时 / 6 周 | 已认领 |
 | [可信 Agent Skills 与 MCP Hub 平台设计与实现](./openatom_club_trusted_agent_hub.md) | TypeScript、Python | 120 小时 / 8 周 | 已认领 |
 | [基于大模型与 CodeQL 规则生成的 FreeBSD 漏洞变体发现系统](./openatom_club_freebsd_rule_generation.md) | Python、C/C++ | 88 小时 / 6 周 | 已认领 |
+| [AtomGit Mobile Android 客户端的设计与实现](./openatom_club_atomgit_mobile_android.md) | Kotlin、Jetpack Compose | 240–320 人时 / 12 周 | 待认领 |
+| [AtomGit Mobile 鸿蒙原生客户端的设计与实现](./openatom_club_atomgit_mobile_harmonyos.md) | ArkTS、ArkUI | 240–320 人时 / 12 周 | 待认领 |
 
 
 ## 联系方式
