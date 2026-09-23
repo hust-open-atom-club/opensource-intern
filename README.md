@@ -20,9 +20,14 @@
 | [可信 Agent Skills 与 MCP Hub 平台设计与实现](./openatom_club_trusted_agent_hub.md) | TypeScript、Python | 120 小时 / 8 周 | 已认领 |
 | [基于大模型与 CodeQL 规则生成的 FreeBSD 漏洞变体发现系统](./openatom_club_freebsd_rule_generation.md) | Python、C/C++ | 88 小时 / 6 周 | 已认领 |
 
+## 课题模板
+
+- [开源实习课题任务书模板](./misc/openatom_club_oss_task_template.md)
+
 ## 结项材料
 
 - [项目结项 PPT 模板](./misc/openatom_club_oss_project_template.pptx)
+- [项目结项报告 Word 模板（通用版）](./misc/华科开放原子开源俱乐部开源实习项目结项报告通用版.docx)
 
 ## 联系方式
 
