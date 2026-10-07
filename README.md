@@ -10,7 +10,7 @@
 | 任务名称 | 预计开发语言 | 预计时长 | 状态 |
 | --------- | --------- | --------- | ----- |
 | [AtomGit Mobile Android 客户端的设计与实现](./openatom_club_atomgit_mobile_android.md) | Kotlin、Jetpack Compose | 240–320 人时 / 12 周 | 待认领 |
-| [AtomGit Mobile 鸿蒙原生客户端的设计与实现](./openatom_club_atomgit_mobile_harmonyos.md) | ArkTS、ArkUI | 240–320 人时 / 12 周 | 待认领 |
+| [AtomGit Mobile 鸿蒙原生客户端的设计与实现](./openatom_club_atomgit_mobile_harmonyos.md) | ArkTS、ArkUI | 240–320 人时 / 12 周 | 已认领 |
 | [hustsync.rs - Rust 重写镜像同步工具](./openatom_club_hustsync.md) | Rust | 2 个月 | 已认领 |
 | [面向华科开放原子俱乐部的开源实习管理系统](./openatom_club_ossintern_web.md) | 不限（建议 Python / TS / Go） | 88 小时 / 6 周 | 已认领 |
 | [基于 PoW 的镜像站防盗刷流量机制](./openatom_club_hustmirrors_waf.md) | TypeScript、Golang | 2 个月 | 已认领 |
